@@ -1,0 +1,1 @@
+rm -rf "${PROFILE_DIR}chrome/userChrome.css"
